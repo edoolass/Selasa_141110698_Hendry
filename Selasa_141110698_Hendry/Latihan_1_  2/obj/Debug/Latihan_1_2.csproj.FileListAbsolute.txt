@@ -1,0 +1,9 @@
+E:\Selasa_141110469_Johan\Selasa_141110469_Johan\Latihan_1_  2\bin\Debug\Latihan_1_  2.exe.config
+E:\Selasa_141110469_Johan\Selasa_141110469_Johan\Latihan_1_  2\bin\Debug\Latihan_1_  2.exe
+E:\Selasa_141110469_Johan\Selasa_141110469_Johan\Latihan_1_  2\bin\Debug\Latihan_1_  2.pdb
+E:\Selasa_141110469_Johan\Selasa_141110469_Johan\Latihan_1_  2\obj\Debug\Latihan_1_2.csprojResolveAssemblyReference.cache
+E:\Selasa_141110469_Johan\Selasa_141110469_Johan\Latihan_1_  2\obj\Debug\Latihan_1___2.Form1.resources
+E:\Selasa_141110469_Johan\Selasa_141110469_Johan\Latihan_1_  2\obj\Debug\Latihan_1___2.Properties.Resources.resources
+E:\Selasa_141110469_Johan\Selasa_141110469_Johan\Latihan_1_  2\obj\Debug\Latihan_1_2.csproj.GenerateResource.Cache
+E:\Selasa_141110469_Johan\Selasa_141110469_Johan\Latihan_1_  2\obj\Debug\Latihan_1_  2.exe
+E:\Selasa_141110469_Johan\Selasa_141110469_Johan\Latihan_1_  2\obj\Debug\Latihan_1_  2.pdb

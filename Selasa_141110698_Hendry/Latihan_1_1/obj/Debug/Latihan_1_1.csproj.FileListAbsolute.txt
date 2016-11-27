@@ -1,0 +1,4 @@
+G:\selasa_141110698_hendry\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+H:\Selasa_141110698_Hendry\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+H:\Selasa_141110698_Hendry\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+H:\Selasa_141110698_Hendry\Latihan_1_1\obj\Debug\Latihan_1_1.pdb

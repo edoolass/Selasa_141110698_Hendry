@@ -1,0 +1,9 @@
+G:\selasa_141110698_hendry\Latihan_1_2\bin\Debug\Latihan_1_2.exe.config
+G:\selasa_141110698_hendry\Latihan_1_2\bin\Debug\Latihan_1_2.exe
+G:\selasa_141110698_hendry\Latihan_1_2\bin\Debug\Latihan_1_2.pdb
+G:\selasa_141110698_hendry\Latihan_1_2\obj\Debug\Latihan_1_2.csprojResolveAssemblyReference.cache
+G:\selasa_141110698_hendry\Latihan_1_2\obj\Debug\Latihan_1_2.Form1.resources
+G:\selasa_141110698_hendry\Latihan_1_2\obj\Debug\Latihan_1_2.Properties.Resources.resources
+G:\selasa_141110698_hendry\Latihan_1_2\obj\Debug\Latihan_1_2.csproj.GenerateResource.Cache
+G:\selasa_141110698_hendry\Latihan_1_2\obj\Debug\Latihan_1_2.exe
+G:\selasa_141110698_hendry\Latihan_1_2\obj\Debug\Latihan_1_2.pdb

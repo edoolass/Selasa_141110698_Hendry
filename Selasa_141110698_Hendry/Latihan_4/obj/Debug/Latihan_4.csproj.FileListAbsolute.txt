@@ -1,0 +1,9 @@
+G:\selasa_141110698_hendry\Latihan_4\bin\Debug\Latihan_4.exe.config
+G:\selasa_141110698_hendry\Latihan_4\obj\Debug\Latihan_4.Form1.resources
+G:\selasa_141110698_hendry\Latihan_4\obj\Debug\Latihan_4.Properties.Resources.resources
+G:\selasa_141110698_hendry\Latihan_4\obj\Debug\Latihan_4.csproj.GenerateResource.Cache
+G:\selasa_141110698_hendry\Latihan_4\bin\Debug\Latihan_4.exe
+G:\selasa_141110698_hendry\Latihan_4\bin\Debug\Latihan_4.pdb
+G:\selasa_141110698_hendry\Latihan_4\obj\Debug\Latihan_4.exe
+G:\selasa_141110698_hendry\Latihan_4\obj\Debug\Latihan_4.pdb
+G:\selasa_141110698_hendry\Latihan_4\obj\Debug\Latihan_4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+H:\Selasa_141110698_Hendry\VolleyBall\bin\Debug\VolleyBall.exe.config
+H:\Selasa_141110698_Hendry\VolleyBall\bin\Debug\VolleyBall.exe
+H:\Selasa_141110698_Hendry\VolleyBall\bin\Debug\VolleyBall.pdb
+H:\Selasa_141110698_Hendry\VolleyBall\obj\Debug\VolleyBall.Form1.resources
+H:\Selasa_141110698_Hendry\VolleyBall\obj\Debug\VolleyBall.Properties.Resources.resources
+H:\Selasa_141110698_Hendry\VolleyBall\obj\Debug\VolleyBall.csproj.GenerateResource.Cache
+H:\Selasa_141110698_Hendry\VolleyBall\obj\Debug\VolleyBall.exe
+H:\Selasa_141110698_Hendry\VolleyBall\obj\Debug\VolleyBall.pdb
