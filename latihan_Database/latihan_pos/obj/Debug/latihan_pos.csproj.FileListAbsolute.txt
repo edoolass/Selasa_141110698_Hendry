@@ -1,0 +1,32 @@
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\bin\Debug\latihan_pos.exe.config
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\bin\Debug\latihan_pos.exe
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\bin\Debug\latihan_pos.pdb
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\obj\Debug\latihan_pos.csprojResolveAssemblyReference.cache
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Form1.resources
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Properties.Resources.resources
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\obj\Debug\latihan_pos.csproj.GenerateResource.Cache
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\obj\Debug\latihan_pos.exe
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\obj\Debug\latihan_pos.pdb
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\bin\Debug\MySql.Data.dll
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\bin\Debug\MySql.Data.xml
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Form2.resources
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Form3.resources
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Form4.resources
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Form5.resources
+D:\semester 5\Senin_141110141_FranjayaLim\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Form6.resources
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\bin\Debug\latihan_pos.exe.config
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\obj\Debug\latihan_pos.exe
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\obj\Debug\latihan_pos.pdb
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\bin\Debug\latihan_pos.exe
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\bin\Debug\latihan_pos.pdb
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\bin\Debug\MySql.Data.dll
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\bin\Debug\MySql.Data.xml
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\obj\Debug\latihan_pos.csprojResolveAssemblyReference.cache
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Form1.resources
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Form2.resources
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Form3.resources
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Form4.resources
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Form5.resources
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Form6.resources
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\obj\Debug\latihan_pos.Properties.Resources.resources
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\obj\Debug\latihan_pos.csproj.GenerateResource.Cache

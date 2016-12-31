@@ -1,0 +1,6 @@
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\bin\Debug\latihan_pos.exe.config
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\obj\Debug\latihan_pos.exe
+D:\Kuliah\MW-A-1\Framework.NET\latihan_pos\latihan_pos\obj\Debug\latihan_pos.pdb
+D:\Kuliah\MW-A-1\Framework.NET\latihan_Database\latihan_pos\bin\Debug\latihan_pos.exe.config
+D:\Kuliah\MW-A-1\Framework.NET\latihan_Database\latihan_pos\obj\Debug\latihan_pos.exe
+D:\Kuliah\MW-A-1\Framework.NET\latihan_Database\latihan_pos\obj\Debug\latihan_pos.pdb
